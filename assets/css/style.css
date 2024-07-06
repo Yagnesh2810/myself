@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: rgb(17 24 39) url("/assets/img/2.png");
+  background: rgb(17 24 39) url("assets/img/2.png");
   background-size: cover;
   left: 0;
   right: 0;
